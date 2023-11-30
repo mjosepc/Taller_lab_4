@@ -77,8 +77,8 @@ public class GuiTeams extends JFrame implements ActionListener {
     private void cargarBanderas() {
         Bandera.put("Australia", new ImageIcon("C:\\Taller_lab_4\\app_superCopa\\src\\main\\java\\Data/aus.png"));
         Bandera.put("Chile", new ImageIcon("C:\\Taller_lab_4\\app_superCopa\\src\\main\\java\\Data/chi.png"));
-        Bandera.put("Camerún", new ImageIcon("C:\\Taller_lab_4\\app_superCopa\\src\\main\\java\\Data"/));
-        Bandera.put("Alemania", new ImageIcon("C:\\Taller_lab_4\\app_superCopa\\src\\main\\java\\Data"));
+        Bandera.put("Camerún", new ImageIcon("C:\\Taller_lab_4\\app_superCopa\\src\\main\\java\\Data/cmr.png"));
+        Bandera.put("Alemania", new ImageIcon("C:\\Taller_lab_4\\app_superCopa\\src\\main\\java\\Data/ger.png"));
     }
 
     @Override
