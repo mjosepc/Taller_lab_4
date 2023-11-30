@@ -66,6 +66,7 @@ public class GuiTeams extends JFrame implements ActionListener {
         panel.add(etiqueta);
         panel.add(etiqueta2);
         panel.add(etiqueta3);
+        panel.add(etiqueta4);
         panel.add(comboBox);
         panel.add(boton1);
         panel.add(boton2);
