@@ -24,7 +24,7 @@ public class GuiTeams extends JFrame implements ActionListener {
         JLabel etiqueta2 = new JLabel("Raking FIFA", SwingConstants.CENTER);
 
         JLabel etiqueta3 = new JLabel("");
-        JLabel etiqueta4 = new JLabel();
+        JLabel etiqueta4 = new JLabel("");
 
         Bandera = new HashMap<>();
 
