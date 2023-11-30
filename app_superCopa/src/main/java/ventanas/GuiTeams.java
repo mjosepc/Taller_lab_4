@@ -27,6 +27,7 @@ public class GuiTeams extends JFrame implements ActionListener {
         JLabel etiqueta4 = new JLabel("");
 
         Bandera = new HashMap<>();
+        cargarBanderas();
 
         JComboBox comboBox = new JComboBox();
 
@@ -54,7 +55,7 @@ public class GuiTeams extends JFrame implements ActionListener {
         comboBox.setBounds(100, 40, 200, 50);
         etiqueta2.setBounds(10, 100, 100, 50);
         etiqueta3.setBounds(200, 100, 100, 50);
-        etiqueta4.setBounds(300,40,100,50);
+        etiqueta4.setBounds(250,40,100,50);
 
         boton1.setBounds(100, 200, 150, 40);
         boton2.setBounds(300, 200, 150, 40);
